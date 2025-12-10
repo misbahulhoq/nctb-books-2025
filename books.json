@@ -4,9 +4,10 @@
     "title": "আমার বাংলা বই",
     "class": 5,
     "level": "primary",
-    "medium": "bangla",
+    "language": "bangla",
+    "version": "bangla-version",
     "subject": "বাংলা",
-    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bengali/class-five/bengali.pdf",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/bengali.pdf",
     "cover_url": ""
   },
   {

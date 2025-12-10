@@ -1,7 +1,62 @@
 [
   {
-    "id": "afds",
-    "class": "five",
-    "book-name": ""
+    "id": "class5_bangla",
+    "title": "আমার বাংলা বই",
+    "class": 5,
+    "level": "primary",
+    "medium": "bangla",
+    "subject": "বাংলা",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bengali/class-five/bengali.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_english",
+    "title": "English for Today",
+    "class": 5,
+    "level": "primary",
+    "medium": "english",
+    "subject": "English",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/English/english_for_today_class5.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_mathematics",
+    "title": "প্রাথমিক গণিত",
+    "class": 5,
+    "level": "primary",
+    "medium": "bangla",
+    "subject": "Mathematics",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/Math/math_class5.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_science",
+    "title": "প্রাথমিক বিজ্ঞান",
+    "class": 5,
+    "level": "primary",
+    "medium": "bangla",
+    "subject": "Science",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/Science/science_class5.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_bgs",
+    "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "class": 5,
+    "level": "primary",
+    "medium": "bangla",
+    "subject": "Bangladesh and Global Studies",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/BGS/bgs_class5.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_religion_islam",
+    "title": "ইসলাম শিক্ষা",
+    "class": 5,
+    "level": "primary",
+    "medium": "bangla",
+    "subject": "Religion & Moral Education",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/Religion/Islam/religion_islam_class5.pdf",
+    "cover_url": ""
   }
 ]

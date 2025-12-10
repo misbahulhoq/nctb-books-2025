@@ -7,7 +7,7 @@
     "language": "bangla",
     "version": "bangla-version",
     "subject": "বাংলা",
-    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/bengali.pdf",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/bangla.pdf",
     "cover_url": ""
   },
   {
@@ -15,9 +15,10 @@
     "title": "English for Today",
     "class": 5,
     "level": "primary",
-    "medium": "english",
+    "language": "english",
+    "version": "english-version",
     "subject": "English",
-    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/English/english_for_today_class5.pdf",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/english.pdf",
     "cover_url": ""
   },
   {
@@ -25,19 +26,10 @@
     "title": "প্রাথমিক গণিত",
     "class": 5,
     "level": "primary",
-    "medium": "bangla",
+    "language": "bangla",
+    "version": "bangla-version",
     "subject": "Mathematics",
-    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/Math/math_class5.pdf",
-    "cover_url": ""
-  },
-  {
-    "id": "class5_science",
-    "title": "প্রাথমিক বিজ্ঞান",
-    "class": 5,
-    "level": "primary",
-    "medium": "bangla",
-    "subject": "Science",
-    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/Science/science_class5.pdf",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/math.pdf",
     "cover_url": ""
   },
   {
@@ -45,9 +37,21 @@
     "title": "বাংলাদেশ ও বিশ্বপরিচয়",
     "class": 5,
     "level": "primary",
-    "medium": "bangla",
+    "language": "bangla",
+    "version": "bangla-version",
     "subject": "Bangladesh and Global Studies",
-    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/BGS/bgs_class5.pdf",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/bgs.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_science",
+    "title": "প্রাথমিক বিজ্ঞান",
+    "class": 5,
+    "level": "primary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "subject": "Science",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/science.pdf",
     "cover_url": ""
   },
   {
@@ -55,9 +59,144 @@
     "title": "ইসলাম শিক্ষা",
     "class": 5,
     "level": "primary",
-    "medium": "bangla",
+    "language": "bangla",
+    "version": "bangla-version",
     "subject": "Religion & Moral Education",
-    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/PDFs/primary/class-5/Religion/Islam/religion_islam_class5.pdf",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/islam.pdf",
+    "cover_url": ""
+  },
+
+  {
+    "id": "class5_religion_christian",
+    "title": "খ্রীষ্টধর্ম শিক্ষা",
+    "class": 5,
+    "level": "primary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "subject": "Religion & Moral Education",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/christian.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_religion_buddhist",
+    "title": "বৌদ্ধধর্ম শিক্ষা",
+    "class": 5,
+    "level": "primary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "subject": "Religion & Moral Education",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/buddhist.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_religion_hindu",
+    "title": "হিন্দুধর্ম শিক্ষা",
+    "class": 5,
+    "level": "primary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "subject": "Religion & Moral Education",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/bangla-version/class-five/hindu.pdf",
+    "cover_url": ""
+  },
+
+  {
+    "id": "class5_bangla_en",
+    "title": "Bangla",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "Bangla",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/bangla.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_english_en",
+    "title": "English for Today",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "English",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/english.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_math_en",
+    "title": "Mathematics",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "Mathematics",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/math.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_bgs_en",
+    "title": "Bangladesh and Global Studies",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "Bangladesh and Global Studies",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/bgs.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_science_en",
+    "title": "Science",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "Science",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/science.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_religion_islam_en",
+    "title": "Islamic Studies",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "Religion & Moral Education",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/islam.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_religion_christian_en",
+    "title": "Christian Religion Studies",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "Religion & Moral Education",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/christian.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_religion_buddhist_en",
+    "title": "Buddhist Religion Studies",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "Religion & Moral Education",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/buddhist.pdf",
+    "cover_url": ""
+  },
+  {
+    "id": "class5_religion_hindu_en",
+    "title": "Hindu Religious Studies",
+    "class": 5,
+    "level": "primary",
+    "language": "english",
+    "version": "english-version",
+    "subject": "Religion & Moral Education",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-2025/pdfs/primary/english-version/class-five/hindu.pdf",
     "cover_url": ""
   }
 ]

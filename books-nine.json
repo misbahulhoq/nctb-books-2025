@@ -1,6 +1,7 @@
 [
   {
     "id": "class9_accounting_bn",
+    "serial_number": 1,
     "title": "English",
     "class": 9,
     "level": "secondary",
@@ -12,6 +13,7 @@
   },
   {
     "id": "class9_english_bn",
+    "serial_number": 2,
     "title": "English",
     "class": 9,
     "level": "secondary",
@@ -23,6 +25,7 @@
   },
   {
     "id": "class9_history_exercise_bn",
+    "serial_number": 3,
     "title": "ইতিহাস ও সামাজিক বিজ্ঞান (অনুশীলনী পাঠ)",
     "class": 9,
     "level": "secondary",
@@ -34,6 +37,7 @@
   },
   {
     "id": "class9_history_investigative_bn",
+    "serial_number": 4,
     "title": "ইতিহাস ও সামাজিক বিজ্ঞান (অনুসন্ধানী পাঠ)",
     "class": 9,
     "level": "secondary",
@@ -45,6 +49,7 @@
   },
   {
     "id": "class9_religion_islam_bn",
+    "serial_number": 5,
     "title": "ইসলাম শিক্ষা",
     "class": 9,
     "level": "secondary",
@@ -56,6 +61,7 @@
   },
   {
     "id": "class9_religion_christian_bn",
+    "serial_number": 6,
     "title": "খ্রীষ্টধর্ম শিক্ষা",
     "class": 9,
     "level": "secondary",
@@ -67,6 +73,7 @@
   },
   {
     "id": "class9_mathematics_bn",
+    "serial_number": 7,
     "title": "গণিত",
     "class": 9,
     "level": "secondary",
@@ -78,6 +85,7 @@
   },
   {
     "id": "class9_life_livelihood_bn",
+    "serial_number": 8,
     "title": "জীবন ও জীবিকা",
     "class": 9,
     "level": "secondary",
@@ -89,6 +97,7 @@
   },
   {
     "id": "class9_digital_technology_bn",
+    "serial_number": 9,
     "title": "ডিজিটাল প্রযুক্তি",
     "class": 9,
     "level": "secondary",
@@ -100,6 +109,7 @@
   },
   {
     "id": "class9_bangla_bn",
+    "serial_number": 10,
     "title": "বাংলা",
     "class": 9,
     "level": "secondary",
@@ -111,6 +121,7 @@
   },
   {
     "id": "class9_science_exercise_bn",
+    "serial_number": 11,
     "title": "বিজ্ঞান (অনুশীলনী পাঠ)",
     "class": 9,
     "level": "secondary",
@@ -122,6 +133,7 @@
   },
   {
     "id": "class9_science_investigative_bn",
+    "serial_number": 12,
     "title": "বিজ্ঞান (অনুসন্ধানী পাঠ)",
     "class": 9,
     "level": "secondary",
@@ -133,6 +145,7 @@
   },
   {
     "id": "class9_religion_buddhist_bn",
+    "serial_number": 13,
     "title": "বৌদ্ধধর্ম শিক্ষা",
     "class": 9,
     "level": "secondary",
@@ -144,6 +157,7 @@
   },
   {
     "id": "class9_art_culture_bn",
+    "serial_number": 14,
     "title": "শিল্প ও সংস্কৃতি",
     "class": 9,
     "level": "secondary",
@@ -155,6 +169,7 @@
   },
   {
     "id": "class9_health_protection_bn",
+    "serial_number": 15,
     "title": "স্বাস্থ্য সুরক্ষা",
     "class": 9,
     "level": "secondary",
@@ -166,6 +181,7 @@
   },
   {
     "id": "class9_religion_hindu_bn",
+    "serial_number": 16,
     "title": "হিন্দুধর্ম শিক্ষা",
     "class": 9,
     "level": "secondary",

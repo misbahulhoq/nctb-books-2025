@@ -1,21 +1,12 @@
-| Local Path                                                     | New Remote URL                                                                                                                      |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| ./pdfs/primary/english-version/class-five/bangla.pdf           | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/primary_english-version_class-five_bangla.pdf           |
-| ./pdfs/primary/bangla-version/class-five/bangla.pdf            | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/primary_bangla-version_class-five_bangla.pdf            |
-| ./pdfs/primary/bangla-version/class-five/islam.pdf             | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/primary_bangla-version_class-five_islam.pdf             |
-| ./pdfs/secondary/bangla-version/class-nine/history.pdf         | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_history.pdf         |
-| ./pdfs/secondary/bangla-version/class-nine/arbi.pdf            | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_arbi.pdf            |
-| ./pdfs/secondary/bangla-version/class-nine/charu-karu.pdf      | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_charu-karu.pdf      |
-| ./pdfs/secondary/bangla-version/class-nine/ict.pdf             | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_ict.pdf             |
-| ./pdfs/secondary/bangla-version/class-nine/science.pdf         | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_science.pdf         |
-| ./pdfs/secondary/bangla-version/class-nine/accounting.pdf      | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_accounting.pdf      |
-| ./pdfs/secondary/bangla-version/class-nine/english-grammar.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_english-grammar.pdf |
-| ./pdfs/secondary/bangla-version/class-nine/bangla-bakoron.pdf  | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_bangla-bakoron.pdf  |
-| ./pdfs/secondary/bangla-version/class-nine/biology.pdf         | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_biology.pdf         |
-| ./pdfs/secondary/bangla-version/class-nine/math.pdf            | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_math.pdf            |
-| ./pdfs/secondary/bangla-version/class-nine/krishi.pdf          | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_krishi.pdf          |
-| ./pdfs/secondary/bangla-version/class-nine/islam.pdf           | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_islam.pdf           |
-| ./pdfs/secondary/bangla-version/class-nine/bgs.pdf             | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_bgs.pdf             |
-| ./pdfs/secondary/bangla-version/class-nine/bhugol.pdf          | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_bhugol.pdf          |
-| ./pdfs/secondary/bangla-version/class-nine/higher-math.pdf     | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_higher-math.pdf     |
-| ./pdfs/secondary/bangla-version/class-nine/chemistry.pdf       | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_bangla-version_class-nine_chemistry.pdf       |
+| Local Path                                                      | New Remote URL                                                                                                                       |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| ./pdfs/secondary/english-version/class-nine/history.pdf         | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_history.pdf         |
+| ./pdfs/secondary/english-version/class-nine/arbi.pdf            | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_arbi.pdf            |
+| ./pdfs/secondary/english-version/class-nine/physics.pdf         | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_physics.pdf         |
+| ./pdfs/secondary/english-version/class-nine/science.pdf         | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_science.pdf         |
+| ./pdfs/secondary/english-version/class-nine/english-grammar.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_english-grammar.pdf |
+| ./pdfs/secondary/english-version/class-nine/bangla-bakoron.pdf  | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_bangla-bakoron.pdf  |
+| ./pdfs/secondary/english-version/class-nine/biology.pdf         | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_biology.pdf         |
+| ./pdfs/secondary/english-version/class-nine/bgs.pdf             | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_bgs.pdf             |
+| ./pdfs/secondary/english-version/class-nine/chemistry.pdf       | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_chemistry.pdf       |
+| ./pdfs/secondary/english-version/class-nine/agriculture.pdf     | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_agriculture.pdf     |

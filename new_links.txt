@@ -1,11 +1,2 @@
 Local Path | New Remote URL
-./pdfs/secondary/english-version/class-nine/history.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_history.pdf
-./pdfs/secondary/english-version/class-nine/arbi.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_arbi.pdf
-./pdfs/secondary/english-version/class-nine/physics.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_physics.pdf
-./pdfs/secondary/english-version/class-nine/science.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_science.pdf
-./pdfs/secondary/english-version/class-nine/english-grammar.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_english-grammar.pdf
-./pdfs/secondary/english-version/class-nine/bangla-bakoron.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_bangla-bakoron.pdf
-./pdfs/secondary/english-version/class-nine/biology.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_biology.pdf
-./pdfs/secondary/english-version/class-nine/bgs.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_bgs.pdf
-./pdfs/secondary/english-version/class-nine/chemistry.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_chemistry.pdf
-./pdfs/secondary/english-version/class-nine/agriculture.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_english-version_class-nine_agriculture.pdf
+./pdfs/secondary/dakhil-version/class-nine/quran.pdf | https://github.com/misbahulhoq/nctb-books-2025/releases/download/v1.0-books/secondary_dakhil-version_class-nine_quran.pdf

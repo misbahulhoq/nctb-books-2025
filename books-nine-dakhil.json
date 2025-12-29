@@ -1,6 +1,6 @@
 [
   {
-    "id": "class9_bangla_sahitto_bn",
+    "id": "class9_bangla_sahitto_dl",
     "serial_number": 1,
     "title": "বাংলা সাহিত্য",
     "class": 9,
@@ -12,7 +12,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_bangla_bakoron_bn",
+    "id": "class9_bangla_bakoron_dl",
     "serial_number": 2,
     "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
     "class": 9,
@@ -24,7 +24,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_english_for_today_bn",
+    "id": "class9_english_for_today_dl",
     "serial_number": 3,
     "title": "English For Today",
     "class": 9,
@@ -36,7 +36,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_english_grammar_bn",
+    "id": "class9_english_grammar_dl",
     "serial_number": 4,
     "title": "English Grammar and Composition",
     "class": 9,
@@ -48,7 +48,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_math_bn",
+    "id": "class9_math_dl",
     "serial_number": 5,
     "title": "গণিত",
     "class": 9,
@@ -60,7 +60,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_bgs_bn",
+    "id": "class9_bgs_dl",
     "serial_number": 6,
     "title": "বাংলাদেশ ও বিশ্বপরিচয়",
     "class": 9,
@@ -72,7 +72,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_physics_bn",
+    "id": "class9_physics_dl",
     "serial_number": 7,
     "title": "পদার্থবিজ্ঞান",
     "class": 9,
@@ -84,7 +84,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_biology_bn",
+    "id": "class9_biology_dl",
     "serial_number": 8,
     "title": "জীববিজ্ঞান",
     "class": 9,
@@ -96,7 +96,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_chemistry_bn",
+    "id": "class9_chemistry_dl",
     "serial_number": 9,
     "title": "রসায়ন",
     "class": 9,
@@ -108,7 +108,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_higher_math_bn",
+    "id": "class9_higher_math_dl",
     "serial_number": 10,
     "title": "উচ্চতর গণিত",
     "class": 9,
@@ -120,7 +120,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_krishi_bn",
+    "id": "class9_krishi_dl",
     "serial_number": 11,
     "title": "কৃষি শিক্ষা",
     "class": 9,
@@ -132,7 +132,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_ict_bn",
+    "id": "class9_ict_dl",
     "serial_number": 12,
     "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
     "class": 9,
@@ -216,7 +216,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_civics_bn",
+    "id": "class9_civics_dl",
     "serial_number": 19,
     "title": "পৌরনীতি ও নাগরিকতা",
     "class": 9,
@@ -228,7 +228,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_physical_edu_bn",
+    "id": "class9_physical_edu_dl",
     "serial_number": 20,
     "title": "শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
     "class": 9,
@@ -240,7 +240,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_garhosto_bn",
+    "id": "class9_garhosto_dl",
     "serial_number": 21,
     "title": "গার্হস্থ্য বিজ্ঞান",
     "class": 9,
@@ -252,7 +252,7 @@
     "cover_url": ""
   },
   {
-    "id": "class9_career_bn",
+    "id": "class9_career_dl",
     "serial_number": 22,
     "title": "ক্যারিয়ার শিক্ষা",
     "class": 9,
